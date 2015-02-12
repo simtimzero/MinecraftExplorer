@@ -1,0 +1,22 @@
+[
+{
+  "modid": "MinecraftExplorer",
+  "name": "Minecraft Explorer",
+  "description": "Made to enhance Exploration in Minecraft.",
+  "version": "${mod_version}",
+  "mcversion": "${minecraft_version}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "simtimzero",
+    ""
+  ],
+  "credits": "simtimzero",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
