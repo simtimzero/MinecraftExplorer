@@ -1,2 +1,5 @@
 item.minecraftexplorer:TrollLeaf.name=Leaf of Trolling
 tile.minecraftexplorer:trollBlock.name=Block of Trolling
+tile.minecraftexplorer:glowstoneWire.name=Glowstone Wire
+itemGroup.minecraftexplorer=Minecraft Explorer
+tile.minecraftexplorer:reinforcedFurnace.name=Reinforced Furnace

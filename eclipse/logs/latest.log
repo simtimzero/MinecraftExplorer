@@ -1,37 +1,28 @@
-[23:12:00] [main/INFO]: Setting user: Player256
-[23:12:03] [Client thread/INFO]: LWJGL Version: 2.9.1
-[23:12:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Explorer
-[23:12:29] [Sound Library Loader/INFO]: Sound engine started
-[23:12:55] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:12:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:12:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Explorer
-[23:12:55] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:12:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:12:56] [Sound Library Loader/INFO]: Sound engine started
-[23:13:01] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[23:13:01] [Server thread/INFO]: Generating keypair
-[23:13:02] [Server thread/INFO]: Preparing start region for level 0
-[23:13:02] [Server thread/INFO]: Changing view distance to 12, from 10
-[23:13:03] [Server thread/INFO]: Player256[local:E:6ca01ca2] logged in with entity id 170 at (-1255.9515990193293, 4.0, -5.911781041032379)
-[23:13:03] [Server thread/INFO]: Player256 joined the game
-[23:13:09] [Server thread/INFO]: Player256 has just earned the achievement [Taking Inventory]
-[23:13:09] [Client thread/INFO]: [CHAT] Player256 has just earned the achievement [Taking Inventory]
-[23:14:21] [Server thread/INFO]: Saving and pausing game...
-[23:14:21] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Overworld
-[23:14:21] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Nether
-[23:14:21] [Server thread/INFO]: Saving chunks for level 'TestWorld'/The End
-[23:14:27] [Server thread/INFO]: Saving and pausing game...
-[23:14:27] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Overworld
-[23:14:27] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Nether
-[23:14:27] [Server thread/INFO]: Saving chunks for level 'TestWorld'/The End
-[23:14:29] [Server thread/INFO]: Saving and pausing game...
-[23:14:29] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Overworld
-[23:14:29] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Nether
-[23:14:29] [Server thread/INFO]: Saving chunks for level 'TestWorld'/The End
-[23:14:29] [Server thread/INFO]: Stopping server
-[23:14:29] [Server thread/INFO]: Saving players
-[23:14:29] [Server thread/INFO]: Saving worlds
-[23:14:29] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Overworld
-[23:14:29] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Nether
-[23:14:29] [Server thread/INFO]: Saving chunks for level 'TestWorld'/The End
-[23:14:30] [Client thread/INFO]: Stopping!
+[22:37:28] [main/INFO]: Logging in with username & password
+[22:37:31] [main/INFO]: Setting user: Simtimzero
+[22:37:32] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:37:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Explorer
+[22:37:38] [Sound Library Loader/INFO]: Sound engine started
+[22:37:39] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:37:39] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:37:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Explorer
+[22:37:39] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:37:39] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:37:40] [Sound Library Loader/INFO]: Sound engine started
+[22:37:51] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:37:51] [Server thread/INFO]: Generating keypair
+[22:37:52] [Server thread/INFO]: Preparing start region for level 0
+[22:37:52] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:37:53] [Server thread/INFO]: Simtimzero[local:E:25664de1] logged in with entity id 169 at (-1254.7693883278332, 5.0, -5.466551629074734)
+[22:37:53] [Server thread/INFO]: Simtimzero joined the game
+[22:38:23] [Server thread/INFO]: Saving and pausing game...
+[22:38:23] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Overworld
+[22:38:23] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Nether
+[22:38:23] [Server thread/INFO]: Saving chunks for level 'TestWorld'/The End
+[22:38:24] [Server thread/INFO]: Stopping server
+[22:38:24] [Server thread/INFO]: Saving players
+[22:38:24] [Server thread/INFO]: Saving worlds
+[22:38:24] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Overworld
+[22:38:24] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Nether
+[22:38:24] [Server thread/INFO]: Saving chunks for level 'TestWorld'/The End
+[22:38:25] [Client thread/INFO]: Stopping!

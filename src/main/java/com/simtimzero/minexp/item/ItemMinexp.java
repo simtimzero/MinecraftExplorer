@@ -1,5 +1,6 @@
 package com.simtimzero.minexp.item;
 
+import com.simtimzero.minexp.creativetab.CreativeTabMinexp;
 import com.simtimzero.minexp.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -13,6 +14,7 @@ public class ItemMinexp extends Item
     public ItemMinexp ()
     {
         super();
+        this.setCreativeTab(CreativeTabMinexp.MINEXP_TAB);
 
     }
     @Override

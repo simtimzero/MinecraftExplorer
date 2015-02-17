@@ -9,4 +9,6 @@ public class Reference
 	public static final String CLIENT_PROXY_CLASS = "com.simtimzero.minexp.proxy.ClientProxy";
 	public static final String SERVER_PROXY_CLASS = "com.simtimzero.minexp.proxy.ServerProxy";
 	public static final String GUI_FACTORY_CLASS = "com.simtimzer.minexp.client.gui.GuiFactory";
+
+
 }

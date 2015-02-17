@@ -1,5 +1,6 @@
 package com.simtimzero.minexp.block;
 
+import com.simtimzero.minexp.creativetab.CreativeTabMinexp;
 import com.simtimzero.minexp.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -12,11 +13,13 @@ public class BlockMinexp extends Block
     public BlockMinexp(Material material)
     {
         super(material);
+        this.setCreativeTab(CreativeTabMinexp.MINEXP_TAB);
     }
     public BlockMinexp()
     {
         this(Material.rock);
     }
+
 
     @Override
     public String getUnlocalizedName()
