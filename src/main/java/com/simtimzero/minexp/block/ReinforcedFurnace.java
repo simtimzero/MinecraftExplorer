@@ -44,13 +44,16 @@ public class ReinforcedFurnace extends BlockMinexp implements ITileEntityProvide
     public ReinforcedFurnace(boolean isActive)
     {
      super(Material.rock);
+        this.setHardness(1.5f);
+        this.setResistance(1000.0f);
+        this.setStepSound(soundTypePiston);
         isBurning2 = isActive;
     }
 
     @SideOnly(Side.CLIENT)
     public void registerBlockIcons(IIconRegister iconregister)
     {
-     this.blockIcon = iconregister.registerIcon(Reference.MOD_ID + ":" + "reinforcedFurnace_front_off");
+        this.blockIcon = iconregister.registerIcon(Reference.MOD_ID + ":" + "reinforcedFurnace_front_off");
         this.front = iconregister.registerIcon(this.isBurning2 ? Reference.MOD_ID + ":reinforcedFurnace_front_on" : Reference.MOD_ID + ":reinforcedFurnace_front_off");
         this.top = iconregister.registerIcon(Reference.MOD_ID + ":reinforcedFurnace_top");
         this.side = iconregister.registerIcon(Reference.MOD_ID + ":reinforcedFurnace_side");

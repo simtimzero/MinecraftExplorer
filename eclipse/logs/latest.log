@@ -1,28 +1,34 @@
-[22:37:28] [main/INFO]: Logging in with username & password
-[22:37:31] [main/INFO]: Setting user: Simtimzero
-[22:37:32] [Client thread/INFO]: LWJGL Version: 2.9.1
-[22:37:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Explorer
-[22:37:38] [Sound Library Loader/INFO]: Sound engine started
-[22:37:39] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:37:39] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:37:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Explorer
-[22:37:39] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:37:39] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:37:40] [Sound Library Loader/INFO]: Sound engine started
-[22:37:51] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[22:37:51] [Server thread/INFO]: Generating keypair
-[22:37:52] [Server thread/INFO]: Preparing start region for level 0
-[22:37:52] [Server thread/INFO]: Changing view distance to 12, from 10
-[22:37:53] [Server thread/INFO]: Simtimzero[local:E:25664de1] logged in with entity id 169 at (-1254.7693883278332, 5.0, -5.466551629074734)
-[22:37:53] [Server thread/INFO]: Simtimzero joined the game
-[22:38:23] [Server thread/INFO]: Saving and pausing game...
-[22:38:23] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Overworld
-[22:38:23] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Nether
-[22:38:23] [Server thread/INFO]: Saving chunks for level 'TestWorld'/The End
-[22:38:24] [Server thread/INFO]: Stopping server
-[22:38:24] [Server thread/INFO]: Saving players
-[22:38:24] [Server thread/INFO]: Saving worlds
-[22:38:24] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Overworld
-[22:38:24] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Nether
-[22:38:24] [Server thread/INFO]: Saving chunks for level 'TestWorld'/The End
-[22:38:25] [Client thread/INFO]: Stopping!
+[03:03:49] [main/INFO]: Logging in with username & password
+[03:03:53] [main/INFO]: Setting user: Simtimzero
+[03:03:54] [Client thread/INFO]: LWJGL Version: 2.9.1
+[03:03:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Epxlorer
+[03:03:59] [Sound Library Loader/INFO]: Sound engine started
+[03:04:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[03:04:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[03:04:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Epxlorer
+[03:04:01] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[03:04:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[03:04:01] [Sound Library Loader/INFO]: Sound engine started
+[03:04:07] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[03:04:07] [Server thread/INFO]: Generating keypair
+[03:04:07] [Server thread/INFO]: Preparing start region for level 0
+[03:04:07] [Server thread/INFO]: Changing view distance to 12, from 10
+[03:04:08] [Server thread/INFO]: Simtimzero[local:E:4bf928e6] logged in with entity id 169 at (-1255.5470856027375, 6.0, -2.1453642822637797)
+[03:04:08] [Server thread/INFO]: Simtimzero joined the game
+[03:04:22] [Server thread/INFO]: [Simtimzero: Set own game mode to Survival Mode]
+[03:04:22] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[03:04:41] [Server thread/INFO]: [Simtimzero: Set own game mode to Creative Mode]
+[03:04:41] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[03:04:53] [Server thread/INFO]: [Simtimzero: Set own game mode to Survival Mode]
+[03:04:53] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[03:05:19] [Server thread/INFO]: Saving and pausing game...
+[03:05:19] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Overworld
+[03:05:19] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Nether
+[03:05:19] [Server thread/INFO]: Saving chunks for level 'TestWorld'/The End
+[03:05:19] [Server thread/INFO]: Stopping server
+[03:05:19] [Server thread/INFO]: Saving players
+[03:05:19] [Server thread/INFO]: Saving worlds
+[03:05:19] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Overworld
+[03:05:19] [Server thread/INFO]: Saving chunks for level 'TestWorld'/Nether
+[03:05:19] [Server thread/INFO]: Saving chunks for level 'TestWorld'/The End
+[03:05:20] [Client thread/INFO]: Stopping!

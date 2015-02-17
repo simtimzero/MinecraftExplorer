@@ -1,15 +1,14 @@
 [
 {
-  "modid": "MinecraftExplorer",
+  "modid": "minexp",
   "name": "Minecraft Explorer",
-  "description": "Made to enhance Exploration in Minecraft.",
-  "version": "${mod_version}",
-  "mcversion": "${minecraft_version}",
+  "description": "Improving exploration since 2015!",
+  "version": "1.7.10-0.0.1",
+  "mcversion": "1.7.10",
   "url": "",
   "updateUrl": "",
   "authorList": [
-    "simtimzero",
-    ""
+    "simtimzero"
   ],
   "credits": "simtimzero",
   "logoFile": "",
