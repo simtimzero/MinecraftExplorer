@@ -15,7 +15,7 @@ import net.minecraft.world.IBlockAccess;
 /**
  * Created by Seth on 2/19/2015.
  */
-public class RenderModBlocks implements ISimpleBlockRenderingHandler
+public class RenderGlowstoneWire implements ISimpleBlockRenderingHandler
 {
 
     public IBlockAccess blockAccess;
@@ -52,7 +52,7 @@ public class RenderModBlocks implements ISimpleBlockRenderingHandler
      public boolean renderBlockGlowstoneWire(Block block, int x, int y, int z)
      {
          Tessellator tessellator = Tessellator.instance;
-        // int l = this.blockAccess.getBlockMetadata(x, y, z);
+         int l = this.blockAccess.getBlockMetadata(x, y, z);
          IIcon iicon = BlockGlowstoneWire.getGlowstoneWireIcon("cross");
          IIcon iicon1 = BlockGlowstoneWire.getGlowstoneWireIcon("line");
          IIcon iicon2 = BlockGlowstoneWire.getGlowstoneWireIcon("cross_overlay");
@@ -61,10 +61,10 @@ public class RenderModBlocks implements ISimpleBlockRenderingHandler
          float f = (float)1 / 15.0F;
          float f1 = f * 0.6F + 0.4F;
 
-      //   if (l == 0)
-      //   {e
-      //       f1 = 0.3F;
-      //   }
+         if (l == 0)
+         {
+             f1 = 0.3F;
+         }
 
          float f2 = f * f * 0.7F - 0.5F;
          float f3 = f * f * 0.6F - 0.7F;
