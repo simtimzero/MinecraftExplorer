@@ -48,6 +48,14 @@ public class ReinforcedFurnace extends BlockMinexp implements ITileEntityProvide
         this.setResistance(1000.0f);
         this.setStepSound(soundTypePiston);
         isBurning2 = isActive;
+        if(isBurning2 == true)
+        {
+            this.setLightLevel(1.0f);
+        }
+        else
+        {
+            this.setLightLevel(0f);
+        }
     }
 
     @SideOnly(Side.CLIENT)

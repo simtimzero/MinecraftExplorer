@@ -1,5 +1,6 @@
 package com.simtimzero.minexp.init;
 
+import com.simtimzero.minexp.item.ItemGlowstoneChalk;
 import com.simtimzero.minexp.item.ItemLeaf;
 import com.simtimzero.minexp.item.ItemMinexp;
 import com.simtimzero.minexp.reference.Reference;
@@ -10,9 +11,11 @@ import cpw.mods.fml.common.registry.GameRegistry;
 public class ModItems
 {
     public static final ItemMinexp Leaf = new ItemLeaf();
+    public static final ItemGlowstoneChalk glowstoneChalk = new ItemGlowstoneChalk();
 
     public static void init()
     {
         GameRegistry.registerItem(Leaf, "TrollLeaf");
+        GameRegistry.registerItem(glowstoneChalk, "glowstonechalk");
     }
 }

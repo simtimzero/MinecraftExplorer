@@ -2,10 +2,7 @@ package com.simtimzero.minexp;
 
 import com.simtimzero.minexp.handler.ConfigurationHandler;
 import com.simtimzero.minexp.handler.GuiHandler;
-import com.simtimzero.minexp.init.ModBlocks;
-import com.simtimzero.minexp.init.ModItems;
-import com.simtimzero.minexp.init.ModTileEntities;
-import com.simtimzero.minexp.init.Recipes;
+import com.simtimzero.minexp.init.*;
 import com.simtimzero.minexp.proxy.IProxy;
 import com.simtimzero.minexp.proxy.ServerProxy;
 import com.simtimzero.minexp.reference.Reference;
@@ -38,6 +35,8 @@ public class MinecraftExplorer
 
         ModItems.init();
         ModBlocks.init();
+        WorldGen.init();
+
         LogHelper.info("Pre Initialization Complete for MineExp");
 	}
 	//Init = Gui / Tile Entities / Rendering / General Event Handelers / Register Recipies
@@ -46,6 +45,7 @@ public class MinecraftExplorer
     {
         NetworkRegistry.INSTANCE.registerGuiHandler(instance, new GuiHandler());
         ModTileEntities.init();
+        proxy.initRenderingAndTextures();
         Recipes.init();
 
 
@@ -54,6 +54,6 @@ public class MinecraftExplorer
 	@Mod.EventHandler 
 	public void postInit(FMLPostInitializationEvent event)
 	{
-		
+
 	}
 }

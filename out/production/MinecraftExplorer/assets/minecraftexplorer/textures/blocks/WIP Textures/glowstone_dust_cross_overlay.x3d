@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D xmlns:xsd='http://www.w3.org/2001/XMLSchema-instance' profile='Full' version='3.0' xsd:noNamespaceSchemaLocation='http://www.web3d.org/specifications/x3d-3.0.xsd'>
+<Scene>
+<WorldInfo
+title='glowstone_dust_cross'
+info='Simtimzero'
+
+comment='Designed by Simtimzero with BDcraft Cubik PRO 0.91 Beta - http://bdcraft.net'
+type='1'
+cam='-182,217.22,-56,0,150,0'
+bg='#303030'/>
+
+<Transform scale="3 3 3">
+<Group DEF='Cubik 0.91'>
+
+<Transform DEF='Cube*10' center='-8 8 -0.5' rotation='0 0 0 0' translation='0 8 -7.5'>
+<Transform scale='16 16 1'>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 -0.5 0.5 -0.5 -0.5 -0.5 0.5 -0.5 -0.5 0.5 -0.5 0.5'/>
+			<Normal vector='0 -1 0'/>
+			<TextureCoordinate point='1 -0.0625 0 -0.0625 0 0 1 0'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 -0.5'/>
+			<Normal vector='0 1 0'/>
+			<TextureCoordinate point='0 0 1 0 1 -0.0625 0 -0.0625'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 -0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5'/>
+			<Normal vector='0 0 -1'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5 0.5 0.5 0.5 0.5'/>
+			<Normal vector='0 0 1'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5 0.5 0.5'/>
+			<Normal vector='-1 0 0'/>
+			<TextureCoordinate point='0 0 0.0625 0 0.0625 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 0.5 0.5 -0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5'/>
+			<Normal vector='1 0 0'/>
+			<TextureCoordinate point='0.9375 0 1 0 1 -1 0.9375 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+</Transform></Transform>
+
+<Transform DEF='Cube9' center='-8 8 -0.5' rotation='0 0 0 0' translation='0 8 7.5'>
+<Transform scale='16 16 1'>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 -0.5 0.5 -0.5 -0.5 -0.5 0.5 -0.5 -0.5 0.5 -0.5 0.5'/>
+			<Normal vector='0 -1 0'/>
+			<TextureCoordinate point='1 -1 0 -1 0 -0.9375 1 -0.9375'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 -0.5'/>
+			<Normal vector='0 1 0'/>
+			<TextureCoordinate point='0 -0.9375 1 -0.9375 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 -0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5'/>
+			<Normal vector='0 0 -1'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5 0.5 0.5 0.5 0.5'/>
+			<Normal vector='0 0 1'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5 0.5 0.5'/>
+			<Normal vector='-1 0 0'/>
+			<TextureCoordinate point='0.9375 0 1 0 1 -1 0.9375 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 0.5 0.5 -0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5'/>
+			<Normal vector='1 0 0'/>
+			<TextureCoordinate point='0 0 0.0625 0 0.0625 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+</Transform></Transform>
+
+<Transform DEF='Cube8' center='-0.5 8 -8' rotation='0 0 0 0' translation='-7.5 8 0'>
+<Transform scale='1 16 16'>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 -0.5 0.5 -0.5 -0.5 -0.5 0.5 -0.5 -0.5 0.5 -0.5 0.5'/>
+			<Normal vector='0 -1 0'/>
+			<TextureCoordinate point='1 -1 0.9375 -1 0.9375 0 1 0'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 -0.5'/>
+			<Normal vector='0 1 0'/>
+			<TextureCoordinate point='0 0 0.0625 0 0.0625 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 -0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5'/>
+			<Normal vector='0 0 -1'/>
+			<TextureCoordinate point='0.9375 0 1 0 1 -1 0.9375 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5 0.5 0.5 0.5 0.5'/>
+			<Normal vector='0 0 1'/>
+			<TextureCoordinate point='0 0 0.0625 0 0.0625 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5 0.5 0.5'/>
+			<Normal vector='-1 0 0'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 0.5 0.5 -0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5'/>
+			<Normal vector='1 0 0'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+</Transform></Transform>
+
+<Transform DEF='Cube7' center='-8 0.5 -8' rotation='0 0 0 0' translation='0 0.5 0'>
+<Transform scale='16 1 16'>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 -0.5 0.5 -0.5 -0.5 -0.5 0.5 -0.5 -0.5 0.5 -0.5 0.5'/>
+			<Normal vector='0 -1 0'/>
+			<TextureCoordinate point='1 -1 0 -1 0 0 1 0'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 -0.5'/>
+			<Normal vector='0 1 0'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 -0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5'/>
+			<Normal vector='0 0 -1'/>
+			<TextureCoordinate point='0 -0.9375 1 -0.9375 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5 0.5 0.5 0.5 0.5'/>
+			<Normal vector='0 0 1'/>
+			<TextureCoordinate point='0 -0.9375 1 -0.9375 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5 0.5 0.5'/>
+			<Normal vector='-1 0 0'/>
+			<TextureCoordinate point='0 -0.9375 1 -0.9375 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 0.5 0.5 -0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5'/>
+			<Normal vector='1 0 0'/>
+			<TextureCoordinate point='0 -0.9375 1 -0.9375 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+</Transform></Transform>
+
+<Transform DEF='Cube6' center='-0.5 8 -8' rotation='0 0 0 0' translation='7.5 8 0'>
+<Transform scale='1 16 16'>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 -0.5 0.5 -0.5 -0.5 -0.5 0.5 -0.5 -0.5 0.5 -0.5 0.5'/>
+			<Normal vector='0 -1 0'/>
+			<TextureCoordinate point='0.0625 -1 0 -1 0 0 0.0625 0'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 -0.5'/>
+			<Normal vector='0 1 0'/>
+			<TextureCoordinate point='0.9375 0 1 0 1 -1 0.9375 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 -0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5'/>
+			<Normal vector='0 0 -1'/>
+			<TextureCoordinate point='0 0 0.0625 0 0.0625 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5 0.5 0.5 0.5 0.5'/>
+			<Normal vector='0 0 1'/>
+			<TextureCoordinate point='0.9375 0 1 0 1 -1 0.9375 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5 0.5 0.5'/>
+			<Normal vector='-1 0 0'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 0.5 0.5 -0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5'/>
+			<Normal vector='1 0 0'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+</Transform></Transform>
+
+<Transform DEF='Cube5' center='-8 0.5 -8' rotation='0 0 0 0' translation='0 15.5 0'>
+<Transform scale='16 1 16'>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 -0.5 0.5 -0.5 -0.5 -0.5 0.5 -0.5 -0.5 0.5 -0.5 0.5'/>
+			<Normal vector='0 -1 0'/>
+			<TextureCoordinate point='1 -1 0 -1 0 0 1 0'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 -0.5'/>
+			<Normal vector='0 1 0'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 -0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5'/>
+			<Normal vector='0 0 -1'/>
+			<TextureCoordinate point='0 0 1 0 1 -0.0625 0 -0.0625'/>
+		</IndexedFaceSet>
+	</Shape>
+
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5 0.5 0.5 0.5 0.5'/>
+			<Normal vector='0 0 1'/>
+			<TextureCoordinate point='0 0 1 0 1 -0.0625 0 -0.0625'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5 0.5 0.5'/>
+			<Normal vector='-1 0 0'/>
+			<TextureCoordinate point='0 0 1 0 1 -0.0625 0 -0.0625'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 0.5 0.5 -0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5'/>
+			<Normal vector='1 0 0'/>
+			<TextureCoordinate point='0 0 1 0 1 -0.0625 0 -0.0625'/>
+		</IndexedFaceSet>
+	</Shape>
+</Transform></Transform>
+
+<Transform DEF='Cube4' center='-8 8 -8' rotation='0 0 0 0' translation='0 8 0'>
+<Transform scale='16 16 16'>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 -0.5 0.5 -0.5 -0.5 -0.5 0.5 -0.5 -0.5 0.5 -0.5 0.5'/>
+			<Normal vector='0 -1 0'/>
+			<TextureCoordinate point='1 -1 0 -1 0 0 1 0'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 -0.5'/>
+			<Normal vector='0 1 0'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 -0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5'/>
+			<Normal vector='0 0 -1'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5 0.5 0.5 0.5 0.5'/>
+			<Normal vector='0 0 1'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='-0.5 0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 0.5 -0.5 0.5 0.5'/>
+			<Normal vector='-1 0 0'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+	<Shape>
+		<Appearance>
+			<Material ambientIntensity='1'/>
+			<ImageTexture url='"./glowstone_dust_cross.png"'><TextureProperties magnificationFilter='NEAREST_PIXEL'/></ImageTexture>
+		</Appearance>
+		<IndexedFaceSet normalIndex='0 0 0 0' texCoordIndex='0 3 2 1' coordIndex='0 1 2 3'>
+			<Coordinate point='0.5 0.5 0.5 0.5 -0.5 0.5 0.5 -0.5 -0.5 0.5 0.5 -0.5'/>
+			<Normal vector='1 0 0'/>
+			<TextureCoordinate point='0 0 1 0 1 -1 0 -1'/>
+		</IndexedFaceSet>
+	</Shape>
+</Transform></Transform>
+
+</Group>
+</Transform>
+
+</Scene>
+</X3D>

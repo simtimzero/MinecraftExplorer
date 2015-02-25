@@ -14,5 +14,7 @@ public class Names
     public static final class Blocks
     {
         public static final String RFURNACE = "reinforcedFurnace";
+        public static final String RFURNACEG = "reinforcedFurnaceGold";
+        public static final String GLOWSTONE_WIRE = "glowstoneWire";
     }
 }

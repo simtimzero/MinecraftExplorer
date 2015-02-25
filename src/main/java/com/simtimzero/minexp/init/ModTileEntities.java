@@ -13,6 +13,8 @@ public class ModTileEntities
     {
    //     GameRegistry.registerTileEntityWithAlternatives(TileEntityReinforcedFurnace.class, Names.Blocks.RFURNACE, "tile." + Names.Blocks.RFURNACE);
         GameRegistry.registerTileEntity(TileEntityReinforcedFurnace.class, "TileEntityReinforcedFurnace");
+        GameRegistry.registerTileEntity(TileEntityReinforcedFurnaceGold.class, "TileEntityReinforcedFurnaceGold");
+        //GameRegistry.registerTileEntity(TileEntityGlowstoneDust.class, Names.Blocks.GLOWSTONE_WIRE);
     }
 
 }
